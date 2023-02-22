@@ -26,6 +26,4 @@ Here are some ideas to get you started:
 * **Softwares**: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premeire Pro, CorelDraw, Figma, Postman
 * **Other**: Kali Linux (Debian), Arch Linux (Arch), Windows
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia" /></p>  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia" /></p> <p><img src="https://github-readme-stats.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia" /></p>  
