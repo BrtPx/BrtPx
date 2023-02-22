@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 * **Other**: Kali Linux (Debian), Arch Linux (Arch), Windows
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia)](https://github.com/BrtPx/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia" /></p>  
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia" /></p>
