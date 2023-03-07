@@ -1,4 +1,4 @@
-### Ohayou Guseimasu 👋 My name is Brett Kimeu
+### Ohayou 👋 My name is Brett Kimeu
 
 
 
