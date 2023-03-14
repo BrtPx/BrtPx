@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 * **Other**: 
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" width="40" height="40"/> 
 </div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia" /></p> 
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=7&theme=algolia" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=algolia" /></p> 
