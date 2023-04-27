@@ -1,4 +1,4 @@
-### Ohayou 👋 My name is Brett Kimeu
+### Good day! 👋 My name is Brett Kimeu
 
 
 
