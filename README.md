@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 * **Database**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
 </div>
 
 * **Devops**: 
