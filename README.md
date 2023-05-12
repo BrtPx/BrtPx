@@ -34,14 +34,17 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40"/> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/> 
 </div>
 
 * **Backend**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/> 
 </div>
 
 * **Database**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
 </div>
 
 * **Devops**: 
