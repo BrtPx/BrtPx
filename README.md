@@ -1,22 +1,5 @@
-### Good day. 👋 My name is Brett Kimeu
+### Hello 👋 My name is Brett
 
-
-
-
-<!--
-**BrtPx/BrtPx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 * **Programming Languages**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
@@ -69,4 +52,4 @@ Here are some ideas to get you started:
 * **Other**: 
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" width="40" height="40"/> 
 </div>
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=5&theme=tokyonight" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=tokyonight" /></p> 
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrtPX&layout=compact&langs_count=5&theme=transparent&show_icons=true" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=transparent" /></p> 
