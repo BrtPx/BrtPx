@@ -50,4 +50,4 @@
 * **Other**: 
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" width="40" height="40"/> 
 </div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=dracula" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPx&size_weight=0&count_weight=1&langs_count=8&layout=compact" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=dracula" /></p> 
