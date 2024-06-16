@@ -1,4 +1,4 @@
-### Hello 👋 My name is Brett
+### Hello  My name is Brett
 
 * **Programming Languages**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/> 
