@@ -35,17 +35,9 @@
 * **Devops**: 
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
-* **Design, UI & UX**: 
-  <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
-</div>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrtPx&size_weight=0&count_weight=1&langs_count=8&layout=compact" />&nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrtPx&&count_private=true&show_icons=true&theme=dracula" /></p> 
