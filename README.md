@@ -30,6 +30,7 @@
 * **Database**:
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/> 
 </div>
 
 * **Devops**: 
